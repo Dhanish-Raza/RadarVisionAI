@@ -1,0 +1,18 @@
+# Core ML
+torch
+torchvision
+scikit-learn
+numpy
+pandas
+matplotlib
+
+# Backend
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+
+# Utilities
+opencv-python
+Pillow
