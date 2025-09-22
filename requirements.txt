@@ -12,7 +12,10 @@ uvicorn
 
 # Frontend
 streamlit
+folium
+streamlit-folium
 
 # Utilities
 opencv-python
 Pillow
+requests
